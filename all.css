@@ -5,3 +5,15 @@
 	text-align: center;
 	color: CadetBlue;
 }
+.spacepic{
+	height: 300px;
+	width: 500px;
+}
+.spacetext{
+	float: right;
+	margin: 30px;
+	font-size: 30px;
+	color: sienna;
+	box-sizing: border-box;
+	border: 5px double black;
+}
