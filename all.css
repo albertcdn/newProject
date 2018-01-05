@@ -6,14 +6,19 @@
 	color: CadetBlue;
 }
 .spacepic{
+	float: left;
 	height: 300px;
 	width: 500px;
 }
 .spacetext{
 	float: right;
-	margin: 30px;
+	margin: 20px;
 	font-size: 30px;
 	color: sienna;
 	box-sizing: border-box;
 	border: 5px double black;
+	background-color: yellow;
+}
+button{
+	float: right;
 }
