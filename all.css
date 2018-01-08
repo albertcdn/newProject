@@ -1,24 +1,23 @@
-.b2{
-	background-color: beige;
+.pageTwoBody
+{
+ 	font-family: Lucida Console, Courier, monospace;
+
+ 	color: #25383C;
+  	
+  	font-size: 20px;
+
+  	background-color: beige;
+
 }
-.headingTwo{
-	text-align: center;
-	color: CadetBlue;
-}
-.spacepic{
-	float: left;
-	height: 300px;
-	width: 500px;
-}
-.spacetext{
+.ufoImage{
 	float: right;
-	margin: 20px;
-	font-size: 30px;
-	color: sienna;
-	box-sizing: border-box;
-	border: 5px double black;
-	background-color: yellow;
+
 }
-button{
-	float: right;
+.alienAbductionList
+{
+	padding: 25px;
+	margin: 25px;
+	border-style: solid;
+	border-color: black;
+	display: inline-block;
 }
